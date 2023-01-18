@@ -1,6 +1,8 @@
-### Hi there 👋 I'm Arshad
+### Arshad Siddiqui
 
-I am a new software developer and Makers Academy alumni currently looking for a junior developer role. I'm currently learning Go.
+Hi, I am a new software developer and Makers Academy alumni currently looking for a junior fullstack developer role.
+
+I'm currently learning Go, GORM and Fiber in order to improve my backend skills.
 
 ## Stack
 
