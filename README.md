@@ -9,7 +9,7 @@ I'm currently learning Go, GORM and Fiber in order to improve my backend skills.
 - HTML/CSS
 - Javascript/Typescript(React, Node, Express, Mongoose, Jest, Cypress)
 - Ruby(Sinatra, RSpec)
-- Go(Gin, Ginkgo)
+- Go(Ginkgo, GORM, Fiber, Testify)
 - MongoDB
 - PostgreSQL
 - Git
