@@ -18,3 +18,4 @@ I'm currently learning Go, GORM and Fiber in order to improve my backend skills.
 ---
 
 [Check out my CV](https://github.com/Arshad-Siddiqui/CV)
+[Check out my freeCodeCamp profile](https://www.freecodecamp.org/fcc08880e59-4231-4f99-bf06-8539d6ff8655)
