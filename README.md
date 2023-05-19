@@ -4,7 +4,7 @@ I'm a fullstack software developer and Makers Academy alumni currently looking f
 
 ## Stack 💪
 
-- HTML/CSS
+- HTML/CSS (Tailwind, FontAwesome)
 - Javascript/Typescript(React, Node, Express, Mongoose, Jest, Cypress)
 - Ruby(Sinatra, RSpec)
 - Go(Ginkgo, GORM, Fiber, Testify)
@@ -13,10 +13,10 @@ I'm a fullstack software developer and Makers Academy alumni currently looking f
 - Git
 
 ## Contact Me ✉️
+
 The fastest way to reach me is email: [ferozarshad123@gmail.com](mailto:ferozarshad123@gmail.com). I look forward to collaborating.
 
-[![Arshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshad-Siddiqui)](https://github.com/anuraghazra/github-readme-stats)
----
+## [![Arshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshad-Siddiqui)](https://github.com/anuraghazra/github-readme-stats)
 
 [Check out my CV](https://github.com/Arshad-Siddiqui/CV)
 
