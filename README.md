@@ -1,23 +1,21 @@
-### Hello 👋, I'm Arshad Siddiqui
+Full-stack developer with a strong foundation in web technologies, object-oriented programming, and database management. Passionate about building scalable, maintainable applications using modern frameworks and tools. Earning my Masters in Computer Science and Artificial intelligence at University of York. Graduate of Makers Academy, proficient in TypeScript, Go and Ruby.
 
-I'm a fullstack software developer and Makers Academy alumni currently looking for a junior fullstack developer role. Currently I'm learning Go, GORM and Fiber in order to improve my backend skills as well as trying to improve my existing Javascript skills with Express and React.
+- Frontend: NextJS, Tailwind, TypeScript
 
-## Stack 💪
+- Backend: Node.js, Express, Go (Fiber, GORM), Ruby (Sinatra)
 
-- HTML/CSS (Tailwind, FontAwesome)
-- Javascript/Typescript(React, Node, Express, Mongoose, Jest, Cypress)
-- Ruby(Sinatra, RSpec)
-- Go(Ginkgo, GORM, Fiber, Testify)
-- MongoDB
-- PostgreSQL
-- Git
+- Testing: Jest, Cypress, Ginkgo, RSpec
 
-## Contact Me ✉️
+- Databases: PostgreSQL, MongoDB
 
-The fastest way to reach me is email: [ferozarshad123@gmail.com](mailto:ferozarshad123@gmail.com). I look forward to collaborating.
+- Tools: Git, Docker, CI/CD
 
-## [![Arshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshad-Siddiqui)](https://github.com/anuraghazra/github-readme-stats)
+## Contact
 
-[Check out my CV](https://github.com/Arshad-Siddiqui/CV)
+email: [ferozarshad123@gmail.com](mailto:ferozarshad123@gmail.com)
 
-[Check out my freeCodeCamp profile](https://www.freecodecamp.org/fcc08880e59-4231-4f99-bf06-8539d6ff8655)
+[Github CV](https://github.com/Arshad-Siddiqui/CV)
+
+[freeCodeCamp](https://www.freecodecamp.org/fcc08880e59-4231-4f99-bf06-8539d6ff8655)
+
+Let's [fight!](https://www.codewars.com/users/Arshad-Siddiqui)
