@@ -13,7 +13,3 @@ Full-stack developer with a strong foundation in web technologies, object-orient
 ## Contact
 
 email: [ferozarshad123@gmail.com](mailto:ferozarshad123@gmail.com)
-
-[Github CV](https://github.com/Arshad-Siddiqui/CV)
-
-[freeCodeCamp](https://www.freecodecamp.org/fcc08880e59-4231-4f99-bf06-8539d6ff8655)
