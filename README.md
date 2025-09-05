@@ -1,4 +1,4 @@
-Full-stack developer with a strong foundation in web technologies, object-oriented programming, and database management. Passionate about building scalable, maintainable applications using modern frameworks and tools. Earning my Masters in Computer Science and Artificial intelligence at University of York. Graduate of Makers Academy, proficient in TypeScript, Go and Ruby.
+I liek typescript
 
 - Frontend: NextJS, Tailwind, TypeScript
 
